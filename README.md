@@ -18,7 +18,7 @@ This is the code needed to run the KFC2 model for predicting alanine scanning mu
 
       http://mitchell-lab.org
 
-   Again, make sure you add the "naccess2.1.1" and "svm_light" inside the "bin" directory of this distribution. 
+   Again, make sure you add the "naccess2.1.1" and "svm_light" inside the "KFC2/bin" directory of this distribution. 
 
 5) Edit main script "kfc2.sh" as needed to change any paths (see comments in script):
 
